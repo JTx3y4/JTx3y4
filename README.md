@@ -26,9 +26,9 @@ Main finding: late orders average 2.27 stars vs 4.29 for on-time orders, and lat
 
 I built a data model with one-to-many relationships and a custom date table, plus DAX measures for late delivery rate, promise buffer, and review score. Totals were cross-checked using PostgreSQL queries. 
 
-## Fintech Transaction Analysis (SQL, Python) — in progress
+## Fintech Transaction Analysis (SQL, Python)
 
-Payment and crypto transaction analysis in PostgreSQL. Planned scope: merchant success rates, fraud flagging with window functions, and a pandas + SQLAlchemy pipeline from raw JSON into a designed schema with an ER diagram.
+- **[Payments Analytics](https://github.com/JTx3y4/payments-failures-fees-fraud-sql)**: SQL analysis of simulated payments data covering failures, fees, volume, and fraud. Tools: PostgreSQL, pandas.
 
 ## Current Skills
 
