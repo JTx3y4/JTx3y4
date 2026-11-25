@@ -50,6 +50,9 @@ The data came from a generator written with AI assistance, so the findings show 
 - Date handling: EXTRACT, DATE_TRUNC, rolling date ranges
 - Data quality checks: inspecting schemas, NULLs, duplicates, deduplication with ROW_NUMBER
 - UNION / UNION ALL, COALESCE, safe division with NULLIF
+- Converting currencies by joining a rates table on currency and date
+- Gap checks with LAG and a window (the velocity rule)
+- Top N per group with RANK and PARTITION BY
 
 **Power BI** 
 - Power Query: merging, grouping, custom columns, unpivot, fill down
