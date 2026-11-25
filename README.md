@@ -26,9 +26,17 @@ Main finding: late orders average 2.27 stars vs 4.29 for on-time orders, and lat
 
 I built a data model with one-to-many relationships and a custom date table, plus DAX measures for late delivery rate, promise buffer, and review score. Totals were cross-checked using PostgreSQL queries. 
 
-## Fintech Transaction Analysis (SQL, Python)
+Payments Analytics: Failures, Fees, and Fraud (SQL, PostgreSQL, Python)
 
-- **[Payments Analytics](https://github.com/JTx3y4/payments-failures-fees-fraud-sql)**: SQL analysis of simulated payments data covering failures, fees, volume, and fraud. Tools: PostgreSQL, pandas.
+[payments-failures-fees-fraud-sql](https://github.com/JTx3y4/payments-failures-fees-fraud-sql)
+
+SQL analysis of simulated payments data using 1,000 customers, 50 merchants, and about 50,000 transactions over 12 months.
+I designed the schema, cleaned the raw JSON in pandas, loaded it into PostgreSQL, and answered six business questions on failures, fees, volume, and fraud.
+
+Main finding: cross-border payments fail about twice as often as domestic ones (about 12% vs. 5% to 6.5%) and carry fees one percentage point higher.
+I tested a velocity rule (5 transactions in 5 minutes) that flagged 20 customers accounting for all 132 fraud-labeled transactions. 
+
+The data came from a generator written with AI assistance, so the findings show the method rather than real-world rates.
 
 ## Current Skills
 
