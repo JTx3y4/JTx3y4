@@ -3,13 +3,13 @@
 Bilingual (English/Mandarin) professional in Taipei building practical skills in SQL, Power BI, Excel, and Python for analyst roles.
 
 ## About Me
-I'm an American who has been living in Taiwan for about 19 years. I spent 10 years as a bilingual ESL teacher, two years at an immigration center giving presentations to potential clients, and a year in SEO where I first worked with web traffic data and found I truly enjoyed the analysis.
+I'm an American who has been living in Taiwan for 19 years. I spent 10 years as a bilingual ESL teacher, two years at an immigration center giving presentations to potential clients, and a year in SEO where I first worked with web traffic data and found I truly enjoyed the analysis.
 
-I'm looking for roles where I turn data into decisions: data analyst, business analyst, operations analyst, reporting/BI analyst, marketing or e-commerce analyst, or bilingual operations roles that use these tools. I'm especially interested in fintech, e-commerce, and tech.
+I'm looking for roles where I turn data into decisions, such as data analyst, business analyst, operations analyst, reporting/BI analyst, marketing or e-commerce analyst, or bilingual operations roles that use SQL, Power BI, Excel, or Python.
 
 ## What I Bring Beyond the Tools
 
-- Native English speaker who is fluent in everyday Mandarin after about 19 years in Taiwan, and I'm building    my business and analytics vocabulary. I can work with Taiwan-based teams and overseas stakeholders.
+- Native English speaker who is fluent in everyday Mandarin and I'm building my business and analytics vocabulary. I can work with Taiwanese teams and overseas stakeholders.
 - Years of explaining complex ideas to non-experts which is what presenting findings involves.
 - Hands-on experience with SEO data and web analytics. 
 
